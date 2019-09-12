@@ -1,7 +1,7 @@
 {
   "name": "py-integrate",
   "version": "1.0.0",
-  "description": "app web usando Django y Vue para el calculo, visualizacion y almacenamiento de ecuaciones, derivadas e integrales",
+  "description": "App Web usando Django y Vue para el calculo, visualizacion y almacenamiento de ecuaciones, derivadas e integrales",
   "author": "Edixon Alberto <edixonalbertto@gmail.com>",
   "private": true,
   "scripts": {
